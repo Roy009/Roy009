@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ... Any kind of projetcs
 - 🤔 I’m looking for help with ... CLOUD COMPUTING
 - 💬 Ask me about ... Anything !
-- 📫 How to reach me: ... [instagram](royrohit060),[LinkedIn](Rohit Roy),[Facebook](Rohit Roy)
+- 📫 How to reach me: ... [instagram](royrohit060)
 - 😄 Pronouns: ... roy !
 - ⚡ Fun fact: ... I love to develope different applications
 
