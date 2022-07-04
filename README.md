@@ -2,7 +2,7 @@
 - 👯 I’m looking to collaborate on ... 
 - 📫 How to reach me: Twitter:
 -->
-### Hi there, I am Rohit... 👋
+                                                                   ### Hi there, I am Rohit... 👋
 
 
 - 🔭 I’m currently pursuing my Bachelores in Computer Science and Engineering 🏦
