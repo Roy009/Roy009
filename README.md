@@ -14,7 +14,7 @@
 
 
 
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roy009&show_icons=true&theme=radical)
+<p>![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roy009&show_icons=true&theme=radical)</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roy009&layout=compact)](https://github.com/Roy009/github-readme-stats)
