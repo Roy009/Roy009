@@ -12,3 +12,6 @@
 - 😄 Pronouns: He/His🧑
 - ⚡ Fun fact: I write code 🧑‍💻
 
+
+
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roy009&show_icons=true&theme=radical)
