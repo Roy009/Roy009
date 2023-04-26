@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Roy</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roy009&label=Profile%20views&color=0e75b6&style=flat" alt="roy009" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=roy009&label=Profile%20views&color=0e75b6&style=flat" alt="roy009" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roy009&theme=radical" alt="roy009" /></a> </p> -->
 <!-- <p align="left"> <a href="https://twitter.com/@rohit_roy_09" target="blank"><img src="https://img.shields.io/twitter/follow/@rohit_roy_09?logo=twitter&style=for-the-badge" alt="@rohit_roy_09" /></a> </p> -->
